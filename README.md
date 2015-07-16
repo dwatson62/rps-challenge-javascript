@@ -3,13 +3,13 @@ Rock Paper Scissors
 
 ## Synopsis
 
-A redo of the Rock Paper Scissors Challenge, using Javascript and jQuery
+A redo of the Rock Paper Scissors Challenge, using Javascript and jQuery.
 
 ## Technologies Used
 
 - Javscript
 - jQuery
-- Sinatra
+- Node, Express
 - Jasmine
 
 ## Collaborators
